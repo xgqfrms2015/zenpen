@@ -1,4 +1,4 @@
-## ZenPen - A minimalist writing zone.
+## ZenPen - 一个极简主义的写作空间.
 
 Zenpen (http://zenpen.io) is a web app for writing minimally, and getting into the Zone.
 
